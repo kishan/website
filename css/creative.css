@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.linkedin_hover:hover { color: #0077B5 }
+.github_hover:hover { color: black }
+.resume_hover:hover { color: #eb3812 }
+
 html,
 body {
     width: 100%;
