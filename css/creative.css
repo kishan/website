@@ -8,6 +8,13 @@
 .github_hover:hover { color: black }
 .resume_hover:hover { color: #eb3812 }
 
+.orange {
+    color: #f05f40;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
 html,
 body {
     width: 100%;
