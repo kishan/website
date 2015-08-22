@@ -1,2 +1,2 @@
 ## Personal Website
-http://kspatel.github.io/me
+http://kspatel.github.io/website

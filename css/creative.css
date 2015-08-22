@@ -190,7 +190,7 @@ header {
     text-align: center;
     color: #fff;
     /*background-image: url(../img/header.jpg);*/
-    background-position: center;
+    /*background-position: center;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -199,8 +199,11 @@ header {
 
 header .header-content {
     position: relative;
+    top: 35%;
+    padding: 0 15px;
+    /*position: relative;
+    padding: 100px 15px;*/
     width: 100%;
-    padding: 100px 15px;
     text-align: center;
 }
 
